@@ -47,6 +47,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _rotationSpeed: 360
+  _coinSound: {fileID: 8089334412030668684, guid: 4b74800a03514714280a5a6573e538f1,
+    type: 3}
 --- !u!135 &6750754579081787234
 SphereCollider:
   m_ObjectHideFlags: 0
